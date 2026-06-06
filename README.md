@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=300&section=header&text=✈️%20Ha%20Van%20Vo%20Quyen%20🚀&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20|%20AI%20Developer%20|%20CyberSecurity%20Enthusiast&descAlignY=55&descAlign=50" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Welcome+to+my+Digital+Universe+🌌;Software+Developer+in+Progress+🚀;AI+%2F+ML+Explorer+🤖;Cyber+Security+Future+Specialist+🛡️;Arena+of+Valor+Carry+🎮" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Welcome+to+my+Digital+Universe+🌌;Software+Developer+in+Progress+🚀;AI+%2F+ML+Explorer+🤖;Cyber+Security+Future+Specialist+🛡️;Arena+of+Valor+Carry+🎮" />
 
 </div>
 
@@ -13,7 +13,6 @@
 <img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 - 🎓 Software Engineering Student
-- 
 - 🧠 Currently learning Backend Optimization & System Design
 - ⚡ Love building clean UI and solving hard bugs
 - 🎮 Arena of Valor enjoyer
@@ -51,7 +50,7 @@
 
 # 📊 GitHub Analytics
 
-<!-- <div align="center">
+<div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=quyenha1225&show_icons=true&theme=tokyonight&border_radius=10" />
 
@@ -59,7 +58,7 @@
 
 </div>
 
-<br> -->
+<br>
 
 <div align="center">
 
@@ -74,9 +73,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/quyenha1225/quyenha1225/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/quyenha1225/quyenha1225/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/quyenha1225/quyenha1225/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 </div>
@@ -132,4 +131,3 @@
 ### 🌌 Thanks for visiting my profile 🚀
 
 </div>
-```
