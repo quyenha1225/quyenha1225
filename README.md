@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=300&section=header&text=✈️%20Ha%20Van%20Vo%20Quyen%20🚀&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20|%20AI%20Developer%20|%20CyberSecurity%20Enthusiast&descAlignY=55&descAlign=50" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Welcome+to+my+Digital+Universe+🌌;Software+Developer+in+Progress+🚀;AI+%2F+ML+Explorer+🤖;Cyber+Security+Future+Specialist+🛡️;Arena+of+Valor+Carry+🎮" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;Software+Developer+in+Progress+%F0%9F%9A%80;AI+%2F+ML+Explorer+%F0%9F%A4%96;Cyber+Security+Future+Specialist+%F0%9F%9B%A1%EF%B8%8F;Arena+of+Valor+Carry+%F0%9F%8E%AE" />
 
 </div>
 
